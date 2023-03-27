@@ -18,10 +18,7 @@
     justify-content: space-between;
     color: white;
 }
-.links {
-    display: flex;
-    justify-content: flex-end;
-}
+
 
 .login {
     margin-left: 20px;
